@@ -29,7 +29,7 @@ percentage_number = int(string_number)
 
 if percentage_number < 10 or percentage_number > 90:
     print(
-        f"Your score is {percentage_number}, you go together like coke and Mentos")
+        f"Your score is {percentage_number}, you go together like coke and mentos")
 elif percentage_number >= 40 and percentage_number <= 50:
     print(f"Your score is {percentage_number}, you are alright together")
 else:
