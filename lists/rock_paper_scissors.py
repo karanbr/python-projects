@@ -56,7 +56,7 @@ def play_game():
             print("Computer wins")
         else:
             print("You win")
-        play_again
+        play_again()
     elif player_choice_int == 1:
         if computers_choice == 0:
             print("You win")
@@ -74,7 +74,7 @@ def play_game():
             print("its a tie")
         play_again()
     else:
-        answer = input("Invalid input")
+        print("Invalid input. You lose")
         play_again()
 
 
