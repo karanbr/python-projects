@@ -18,21 +18,21 @@ def check_pick(picked_input: dict, compare_input: dict):
 
 def return_picked_dict(pick_a_input: dict, pick_b_input: dict):
     chosen_pick = {}
-    other_pic = {}
+    other_pick = {}
     print("*****************************************")
     answer = input("Who has more followers? Type 'A' or 'B': ").lower()
     print()
     if answer == "a":
         chosen_pick = pick_a_input
-        other_pic = pick_b_input
+        other_pick = pick_b_input
     elif answer == "b":
         chosen_pick = pick_b_input
-        other_pic = pick_a_input
+        other_pick = pick_a_input
     else:
-        print("Invalid input. Try again")
+        print(game.invalid)
         return_picked_dict(pick_a_input, pick_b_input)
 
-    return chosen_pick, other_pic
+    return chosen_pick, other_pick
 
 
 def play_game():
@@ -54,23 +54,23 @@ def play_game():
             for _ in range(10):
                 print()
             score += 1
-            print("*****************************************")
-            print(f"CORRECT! Your score is now {score}")
+            print(art.stars)
+            print(f"{game.correct} {score}")
         else:
             game_over = True
-            print("*****************************************")
-            print(f"Wrong Answer. Game over. Your best score: {score}")
+            print(art.stars)
+            print(f"{game.game_over} {score}")
             play()
 
 
 def play():
-    answer = input("Do you want to play 'higher or lower'? (y/n)").lower()
+    answer = input(game.play).lower()
     if answer == "y":
         play_game()
     elif answer == "n":
         pass
     else:
-        print("Invalid input. Please try again")
+        print(game.invalid)
         play()
 
 

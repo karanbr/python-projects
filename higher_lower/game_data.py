@@ -1,3 +1,8 @@
+play = "Do you want to play 'higher or lower'? (y/n)"
+invalid = "Invalid input. Try again"
+correct = "CORRECT! Your score is now"
+game_over = "Wrong Answer. Game over. Your best score:"
+
 data = [
     {
         'name': 'Instagram',
