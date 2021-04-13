@@ -6,5 +6,7 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="CoffeeMachine" />
     <orderEntry type="module" module-name="turtle_graphics" />
+    <orderEntry type="module" module-name="etch_a_sketch" />
+    <orderEntry type="module" module-name="tutle_race" />
   </component>
 </module>
