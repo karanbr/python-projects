@@ -8,5 +8,6 @@
     <orderEntry type="module" module-name="turtle_graphics" />
     <orderEntry type="module" module-name="etch_a_sketch" />
     <orderEntry type="module" module-name="tutle_race" />
+    <orderEntry type="module" module-name="snake_game" />
   </component>
 </module>
