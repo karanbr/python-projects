@@ -39,7 +39,6 @@ while game_is_on:
         game_is_on = False
         score.game_over()
 
-
     # Detect collision with tail
     # for block in snake.snake_blocks:
     #     if block == snake.head:
@@ -52,6 +51,5 @@ while game_is_on:
         if snake.head.distance(block) < 10:
             game_is_on = False
             score.game_over()
-
 
 screen.exitonclick()
