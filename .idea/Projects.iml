@@ -10,5 +10,6 @@
     <orderEntry type="module" module-name="tutle_race" />
     <orderEntry type="module" module-name="snake_game" />
     <orderEntry type="module" module-name="pong" />
+    <orderEntry type="module" module-name="turtleCrossRoad" />
   </component>
 </module>
