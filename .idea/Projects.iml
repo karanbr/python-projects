@@ -11,5 +11,6 @@
     <orderEntry type="module" module-name="snake_game" />
     <orderEntry type="module" module-name="pong" />
     <orderEntry type="module" module-name="turtleCrossRoad" />
+    <orderEntry type="module" module-name="mail_merge" />
   </component>
 </module>
