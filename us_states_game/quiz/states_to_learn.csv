@@ -1,0 +1,157 @@
+,state,x,y
+0,"0    Alabama
+Name: state, dtype: object","0    139
+Name: x, dtype: int64","0   -77
+Name: y, dtype: int64"
+1,"3    Arkansas
+Name: state, dtype: object","3    57
+Name: x, dtype: int64","3   -53
+Name: y, dtype: int64"
+2,"5    Colorado
+Name: state, dtype: object","5   -112
+Name: x, dtype: int64","5    20
+Name: y, dtype: int64"
+3,"6    Connecticut
+Name: state, dtype: object","6    297
+Name: x, dtype: int64","6    96
+Name: y, dtype: int64"
+4,"9    Georgia
+Name: state, dtype: object","9    182
+Name: x, dtype: int64","9   -75
+Name: y, dtype: int64"
+5,"11    Idaho
+Name: state, dtype: object","11   -216
+Name: x, dtype: int64","11    122
+Name: y, dtype: int64"
+6,"12    Illinois
+Name: state, dtype: object","12    95
+Name: x, dtype: int64","12    37
+Name: y, dtype: int64"
+7,"13    Indiana
+Name: state, dtype: object","13    133
+Name: x, dtype: int64","13    39
+Name: y, dtype: int64"
+8,"14    Iowa
+Name: state, dtype: object","14    38
+Name: x, dtype: int64","14    65
+Name: y, dtype: int64"
+9,"15    Kansas
+Name: state, dtype: object","15   -17
+Name: x, dtype: int64","15    5
+Name: y, dtype: int64"
+10,"16    Kentucky
+Name: state, dtype: object","16    149
+Name: x, dtype: int64","16    1
+Name: y, dtype: int64"
+11,"17    Louisiana
+Name: state, dtype: object","17    59
+Name: x, dtype: int64","17   -114
+Name: y, dtype: int64"
+12,"18    Maine
+Name: state, dtype: object","18    319
+Name: x, dtype: int64","18    164
+Name: y, dtype: int64"
+13,"19    Maryland
+Name: state, dtype: object","19    288
+Name: x, dtype: int64","19    27
+Name: y, dtype: int64"
+14,"20    Massachusetts
+Name: state, dtype: object","20    312
+Name: x, dtype: int64","20    112
+Name: y, dtype: int64"
+15,"21    Michigan
+Name: state, dtype: object","21    148
+Name: x, dtype: int64","21    101
+Name: y, dtype: int64"
+16,"22    Minnesota
+Name: state, dtype: object","22    23
+Name: x, dtype: int64","22    135
+Name: y, dtype: int64"
+17,"23    Mississippi
+Name: state, dtype: object","23    94
+Name: x, dtype: int64","23   -78
+Name: y, dtype: int64"
+18,"24    Missouri
+Name: state, dtype: object","24    49
+Name: x, dtype: int64","24    6
+Name: y, dtype: int64"
+19,"25    Montana
+Name: state, dtype: object","25   -141
+Name: x, dtype: int64","25    150
+Name: y, dtype: int64"
+20,"27    Nevada
+Name: state, dtype: object","27   -257
+Name: x, dtype: int64","27    56
+Name: y, dtype: int64"
+21,"28    New Hampshire
+Name: state, dtype: object","28    302
+Name: x, dtype: int64","28    127
+Name: y, dtype: int64"
+22,"29    New Jersey
+Name: state, dtype: object","29    282
+Name: x, dtype: int64","29    65
+Name: y, dtype: int64"
+23,"32    North Carolina
+Name: state, dtype: object","32    239
+Name: x, dtype: int64","32   -22
+Name: y, dtype: int64"
+24,"33    North Dakota
+Name: state, dtype: object","33   -44
+Name: x, dtype: int64","33    158
+Name: y, dtype: int64"
+25,"35    Oklahoma
+Name: state, dtype: object","35   -8
+Name: x, dtype: int64","35   -41
+Name: y, dtype: int64"
+26,"36    Oregon
+Name: state, dtype: object","36   -278
+Name: x, dtype: int64","36    138
+Name: y, dtype: int64"
+27,"37    Pennsylvania
+Name: state, dtype: object","37    238
+Name: x, dtype: int64","37    72
+Name: y, dtype: int64"
+28,"38    Rhode Island
+Name: state, dtype: object","38    318
+Name: x, dtype: int64","38    94
+Name: y, dtype: int64"
+29,"39    South Carolina
+Name: state, dtype: object","39    218
+Name: x, dtype: int64","39   -51
+Name: y, dtype: int64"
+30,"40    South Dakota
+Name: state, dtype: object","40   -44
+Name: x, dtype: int64","40    109
+Name: y, dtype: int64"
+31,"41    Tennessee
+Name: state, dtype: object","41    131
+Name: x, dtype: int64","41   -34
+Name: y, dtype: int64"
+32,"43    Utah
+Name: state, dtype: object","43   -189
+Name: x, dtype: int64","43    34
+Name: y, dtype: int64"
+33,"44    Vermont
+Name: state, dtype: object","44    282
+Name: x, dtype: int64","44    154
+Name: y, dtype: int64"
+34,"45    Virginia
+Name: state, dtype: object","45    234
+Name: x, dtype: int64","45    12
+Name: y, dtype: int64"
+35,"46    Washington
+Name: state, dtype: object","46   -257
+Name: x, dtype: int64","46    193
+Name: y, dtype: int64"
+36,"47    West Virginia
+Name: state, dtype: object","47    200
+Name: x, dtype: int64","47    20
+Name: y, dtype: int64"
+37,"48    Wisconsin
+Name: state, dtype: object","48    83
+Name: x, dtype: int64","48    113
+Name: y, dtype: int64"
+38,"49    Wyoming
+Name: state, dtype: object","49   -134
+Name: x, dtype: int64","49    90
+Name: y, dtype: int64"

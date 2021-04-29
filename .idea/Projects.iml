@@ -12,5 +12,7 @@
     <orderEntry type="module" module-name="pong" />
     <orderEntry type="module" module-name="turtleCrossRoad" />
     <orderEntry type="module" module-name="mail_merge" />
+    <orderEntry type="module" module-name="csv_and_pandas" />
+    <orderEntry type="module" module-name="us_states_game" />
   </component>
 </module>
