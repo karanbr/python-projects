@@ -15,5 +15,6 @@
     <orderEntry type="module" module-name="csv_and_pandas" />
     <orderEntry type="module" module-name="us_states_game" />
     <orderEntry type="module" module-name="list_comprehension" />
+    <orderEntry type="module" module-name="nato_alphabet" />
   </component>
 </module>
