@@ -16,5 +16,7 @@
     <orderEntry type="module" module-name="us_states_game" />
     <orderEntry type="module" module-name="list_comprehension" />
     <orderEntry type="module" module-name="nato_alphabet" />
+    <orderEntry type="module" module-name="tkinter_args_kwargs" />
+    <orderEntry type="module" module-name="MilesToKilometres" />
   </component>
 </module>
