@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/comprehension/.idea/list_comprehension.iml" filepath="$PROJECT_DIR$/comprehension/.idea/list_comprehension.iml" />
       <module fileurl="file://$PROJECT_DIR$/mail_merge/.idea/mail_merge.iml" filepath="$PROJECT_DIR$/mail_merge/.idea/mail_merge.iml" />
       <module fileurl="file://$PROJECT_DIR$/nato_alphabet/.idea/nato_alphabet.iml" filepath="$PROJECT_DIR$/nato_alphabet/.idea/nato_alphabet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pomodoro/.idea/pomodoro.iml" filepath="$PROJECT_DIR$/pomodoro/.idea/pomodoro.iml" />
       <module fileurl="file://$PROJECT_DIR$/pong/.idea/pong.iml" filepath="$PROJECT_DIR$/pong/.idea/pong.iml" />
       <module fileurl="file://$PROJECT_DIR$/snake_game/.idea/snake_game.iml" filepath="$PROJECT_DIR$/snake_game/.idea/snake_game.iml" />
       <module fileurl="file://$PROJECT_DIR$/tkinter_args_kwargs/.idea/tkinter_args_kwargs.iml" filepath="$PROJECT_DIR$/tkinter_args_kwargs/.idea/tkinter_args_kwargs.iml" />

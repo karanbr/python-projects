@@ -18,5 +18,6 @@
     <orderEntry type="module" module-name="nato_alphabet" />
     <orderEntry type="module" module-name="tkinter_args_kwargs" />
     <orderEntry type="module" module-name="MilesToKilometres" />
+    <orderEntry type="module" module-name="pomodoro" />
   </component>
 </module>

@@ -1,4 +1,5 @@
 import tkinter
+import time
 
 window = tkinter.Tk()
 window.title("Miles to Kilometres")
